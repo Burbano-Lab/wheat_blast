@@ -6,4 +6,4 @@ Supplementary material for the study:
 
 Authors: Sergio M. Latorre, Hernán A. Burbano
 
-doi: 
+doi: http://doi.org/10.5281/zenodo.4619405
